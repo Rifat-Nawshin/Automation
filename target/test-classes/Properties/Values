@@ -1,0 +1,15 @@
+//logintest
+Useremail = selisetest.delta@gmail.com
+Password = 2wsxXSW@sd
+//addemployee
+SalutationString = Mrs.
+firstnameString = Automate
+lastnameString = NewUser
+Designationvalue = QA
+userEmailString = automateuser@gmail.com
+month = MARCH 2014
+Day = 12
+userPhoneString= 1789 876543
+department = BASIC
+StringexpectedResut = Created Employee Successfully
+Displayname = MRS Automate NewUser

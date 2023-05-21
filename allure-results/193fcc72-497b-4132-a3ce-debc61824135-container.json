@@ -1,0 +1,1 @@
+{"uuid":"193fcc72-497b-4132-a3ce-debc61824135","name":"Suite","children":["dbf284ad-4355-4cf4-a930-b69f1b7bc4a7"],"befores":[{"name":"getUrl","status":"passed","stage":"finished","description":"Get the URL and maximize the window","steps":[],"attachments":[],"parameters":[],"start":1684578627409,"stop":1684578672146}],"afters":[],"start":1684578627362,"stop":1684578681048}
